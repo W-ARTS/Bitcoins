@@ -1,7 +1,16 @@
+body{
+    background-color: #272343!important;
+}
+
 h1 {
-    color: #272343;
+    color: white!important;
 }
 
 #price {
     font-size: 4em;
+    color: white;
+    border-radius: 50px;
+    background: #262626;
+    box-shadow: 20px 20px 60px #202020,
+            -20px -20px 60px #2c2c2c;
 }
