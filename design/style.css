@@ -1,9 +1,13 @@
 body{
     background-color: #272343!important;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shrikhand', cursive;
 }
 
 h1 {
     color: white!important;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shrikhand', cursive;
 }
 
 #price {
